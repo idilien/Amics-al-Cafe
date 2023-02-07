@@ -519,7 +519,7 @@ h4 {
 @media (min-width: 768px) {
   .content-main {
     padding: 10rem;
-    margin-top: -10rem;
+    margin-top: -30rem;
     position: relative;
   }
 }
